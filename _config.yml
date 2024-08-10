@@ -1,4 +1,4 @@
-baseurl: "/zolan" # the subpath of your site, e.g. /blog
+baseurl: "/ecotopo_pyrenees" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
@@ -20,6 +20,13 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
+  - scope:
+      type: posts
+      path: _posts
+    values:
+      permalink: /:title/
+
+
 
 include:
   - _pages
