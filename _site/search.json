@@ -1,10 +1,18 @@
 [
   
     {
+      "title"    : "Sortie escalade de bloc à Orlu",
+      "category" : "",
+      "tags"     : "Escalade",
+      "url"      : "/ecotopo_pyrenees/bloc-orlu/",
+      "date"     : "10 Aug, 2024"
+    } ,
+  
+    {
       "title"    : "Find a connection with the reader",
       "category" : "",
       "tags"     : "Resources",
-      "url"      : "/zolan/2018/07/24/find-a-connection-with-the-reader/",
+      "url"      : "/ecotopo_pyrenees/find-a-connection-with-the-reader/",
       "date"     : "24 Jul, 2018"
     } ,
   
@@ -12,7 +20,7 @@
       "title"    : "Why a brand is often important",
       "category" : "",
       "tags"     : "Style",
-      "url"      : "/zolan/2018/07/19/why-a-brand-is-often-important/",
+      "url"      : "/ecotopo_pyrenees/why-a-brand-is-often-important/",
       "date"     : "19 Jul, 2018"
     } ,
   
@@ -20,7 +28,7 @@
       "title"    : "Time to give gifts to everyone",
       "category" : "",
       "tags"     : "Life",
-      "url"      : "/zolan/2018/07/17/time-to-givegifts-to-everyone/",
+      "url"      : "/ecotopo_pyrenees/time-to-givegifts-to-everyone/",
       "date"     : "17 Jul, 2018"
     } ,
   
@@ -28,7 +36,7 @@
       "title"    : "Moving to a new place",
       "category" : "",
       "tags"     : "Home",
-      "url"      : "/zolan/2018/07/05/moving-to-a-new-place/",
+      "url"      : "/ecotopo_pyrenees/moving-to-a-new-place/",
       "date"     : "5 Jul, 2018"
     } ,
   
@@ -36,7 +44,7 @@
       "title"    : "Start the day with the right habit",
       "category" : "",
       "tags"     : "Style",
-      "url"      : "/zolan/2018/06/25/start-the-day-with-the-right-habit/",
+      "url"      : "/ecotopo_pyrenees/start-the-day-with-the-right-habit/",
       "date"     : "25 Jun, 2018"
     } ,
   
@@ -44,7 +52,7 @@
       "title"    : "Welcome to Jekyll!",
       "category" : "",
       "tags"     : "Jekyll",
-      "url"      : "/zolan/2018/05/29/welcome-to-jekyll/",
+      "url"      : "/ecotopo_pyrenees/welcome-to-jekyll/",
       "date"     : "29 May, 2018"
     } 
   
