@@ -48,6 +48,7 @@ layout: default
 
       <div class="post__content">
         {{ content }}
+        {% include gisqus-comments.html %}
       </div>
 
       <div class="post__share">
@@ -81,6 +82,7 @@ layout: default
     <!-- end post -->
     </div>
   </div>
+  
 
   <div class="container">
   <div class="post__navigation">
@@ -120,5 +122,6 @@ layout: default
     {% endif %}
   </div>
 
-  {% if site.data.settings.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
+
+  
   </div>
