@@ -4,10 +4,11 @@ title:  Sortie escalade de bloc à Orlu
 date:   2024-08-10 10:00:00 +0300
 image:  bloc_orlu/bloc_orlu_1.jpg
 tags:   Escalade
+comments: true
 ---
 
 Dimanche c'était escalade de bloc à Orlu !
-Nous avons fait le trajet en train de Toulouse jusqu'à Ax Les Thermes, suivi d'un peu de vélo pour rejoindre le site de bloc de la vallée d'Orlu.
+Nous avons fait le trajet en train de Toulouse jusqu'à Ax-Les-Thermes, suivi d'un peu de vélo pour rejoindre le site de bloc de la vallée d'Orlu.
 
 ## Organisation de la sortie
 
