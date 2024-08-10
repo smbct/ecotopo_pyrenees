@@ -1,5 +1,7 @@
 https://github.com/artemsheludko/zolan
 
+local build : "bundle exec jekyll serve"
+
 Zolan - Modern & Minimal Theme for Jekyll
 ======
 Zolan is a minimal blog theme for Jekyll.
