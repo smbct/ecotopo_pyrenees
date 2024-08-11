@@ -9,24 +9,92 @@ author: Samuel
 ---
 
 Dimanche c'était escalade de bloc à Orlu !
-Nous avons fait le trajet en train de Toulouse jusqu'à Ax-Les-Thermes, suivi d'un peu de vélo pour rejoindre le site de bloc de la vallée d'Orlu.
+Il s'agit d'une sortie en train de Toulouse jusqu'à Ax-Les-Thermes, avec un peu de vélo pour rejoindre le site de bloc de la vallée d'Orlu.
 
-## Organisation de la sortie
+Pour cette sortie, nous visions une journée d'escalade de bloc dans la [vallée d'Orlu](https://www.pyrenees-ariegeoises.com/offres/escalade-de-blocs-a-orlu-orlu-fr-4222136/) en Ariège.
+Cette sortie, faisable à la journée de Toulouse en 🚆+🚲, ne nécessite que 30 minutes de vélo d'Ax-Les-Thermes pour atteindre le site de bloc, avec environ 150 mètres de dénivelé positif à gravir 🚵.
 
-- départ de Toulouse le matin, embarquement du vélo dans le train (réservation gratuite nécessaire en période estivale, peu d'emplacements par trains 😕)
+## Déroulement de la sortie
 
-- descente à ax les thermes 1h30 plus tard
+La sortie débute le matin avec un peu de vélo pour rejoindre la gare (billets de train réservés dans la semaine).
+Pas besoin d'un départ très matinal, nous avions anticipé la dépense physique d'une journée de bloc et n'avions pas pensé nécessaire de prévoir plus de 8 ou 9h sur place.
 
-- vélo de ax jusqu'au site de bloc d'Orlu, un peu après le village du même nom. Environ 150m de montée, un peu plus raide au départ d'Ax mais raisonnable
+Niveau vélo, le VTT fait amplement l'affaire, un simple sac à dos comme bagage 🎒 avec mes affaires de grimpe perso ainsi que l'eau et la nourriture.
 
-- journée de bloc très sympa, à l'abri du soleil dans la forêt, à côté d'une rivière (mais 🦟)
+![]({{ site.baseurl }}/images/bloc_orlu/attente_train.jpg)
+*Attente du train à Toulouse.*
 
-- super cadre, réception plutôt sûre pour beaucoup de blocs et peu de fréquentation
+⚠️ À noter qu'en période estivale, il est obligatoire d'effectuer une réservation supplémentaire, mais gratuite, pour les vélos à l'intérieur des trains régionaux en Occitanie.
+Plus d'informations sur [ce site](https://www.ter.sncf.com/occitanie/services-contacts/voyager-avec-son-velo).
+Malheureusement peu d'emplacements vélo sont disponibles par train 😕.
 
-- retour en fin d'après midi vers Ax avec une descente incroyable au milieu des montagnes
+![]({{ site.baseurl }}/images/bloc_orlu/vélo_dans_train.jpg)
+*Le vélo dans le train, à l'emplacement prévu pour accueillir 3 vélos.*
 
-- retour en train vers Toulouse pour y arriver en soirée, avec beaucoup de vélos non réservés et donc quelques galères pour les sortir
+Nous profitons du train pour nous détendre et parler des projets en cours.
+Nous profitons également du changement de paysage à mesure que le train progresse dans le massif 😍.
 
-## Infos pratiques
+![]({{ site.baseurl }}/images/bloc_orlu/vue_train.jpg)
+*La vue du train est plutôt sympathique !*
 
-## La journée bloc
+Nous nous retrouvons à Ax après 1h30 de train pour faire le chemin à vélo ensembles jusqu'au site de bloc.
+Nous sommes 4 en tout.
+Pour cette sorti, nous avions loués un grand crashpad dans une salle d'escalade pour 12€ la journée.
+
+![]({{ site.baseurl }}/images/bloc_orlu/vélo_ax.jpg)
+*En mode convoi exceptionnel dans les rues d'Ax 👷.*
+
+Nous nous arrêtons en chemin pour acheter le topo du site de bloc dans l'office de tourisme d'Ax ℹ️, ouverte le dimanche en période estivale.
+Pour seulement 4€, l'achat du topo est vraiment une bonne chose car c'est généralement un des moyen utilisé pour financer 💵 le maintien des sites d'escalade 🧗.
+
+Nous nous dirigeons ensuite vers le site de bloc d'Orlu, un peu après le village du même nom 🏘️. 
+C'est globalement tout droit en sorti d'Ax !
+Environ 150m de montée, avec une pente un peu plus raide au départ d'Ax mais raisonnable, le chemin est globalement très agréable entouré des montagnes 🏞️.
+Nous longeons une rivière et un étang et nous apercevons la dent d'Orlu en fond ⛰️ !
+
+![La route à vélo d'Ax au site de bloc, avec la dent d'Orlu au fond à gauche.]({{ site.baseurl }}/images/bloc_orlu/vélo_vers_orlu.jpg)
+*La route à vélo de Ax au site de bloc, avec la dent d'Orlu au fond à gauche.*
+
+Nous arrivons assez rapidement au parking du site de bloc.
+Notre sherpa du crashpad n'a heureusement rencontré aucun problème particulier en chemin !
+Un porte bagage et des sacoches 👜 sur le vélo 🚲 peuvent tout de même se révéler pratique pour pouvoir tout porter, même si à 4 nous pouvions encore nous organiser facilement. 
+
+![Arrivée au site de bloc de la vallée d'Orlu.]({{ site.baseurl }}/images/bloc_orlu/arrivée_site_bloc.jpg)
+*Arrivée au site de bloc de la vallée d'Orlu.*
+
+S'ensuit une journée de bloc très sympa !
+Le site est peu fréquenté et nous passons la journée dans la forêt 🌲 à l'abri du soleil, à grimper sur les blocs de granite de divers profils.
+Nous repérons un peu toutes les cotations intéressantes pour nous autres non mutants 💪 dans les différents parcours balisés sur le topo.
+
+![Une dalle avec plusieurs blocs ouverts.]({{ site.baseurl }}/images/bloc_orlu/bloc_orlu_2.jpg)
+*Une dalle avec plusieurs blocs ouverts.*
+
+Nous nous essayons autant à du vertical qu'à du dévers.
+Les réceptions sont plutôt sûres et nous nous risquons un peu à chuter. Il faut dire que la présence de 3 pareurs est assez rassurante 😇 !
+
+![]({{ site.baseurl }}/images/bloc_orlu/bloc_orlu_1.jpg)
+*Un bon dévers pour se faire les bras.*
+
+Le cadre est super ! Nous avons la rivière juste à côté des blocs, avec toutefois quelques 🦟 et autres insectes parfois invasifs.
+
+![]({{ site.baseurl }}/images/bloc_orlu/rivière_orlu.jpg)
+*Proximité de la rivière.*
+
+Nous nous arrêtons de bloquer suffisamment tôt pour faire une pause détente avant de repartir vers Ax.
+Il faut dire que peu habitués au bloc en extérieur, la fatigue 🥱, le manque de peau sur les doigts 🤌 ainsi que le mal de pied 🦶 finit par nous ralentir !
+
+La descente sur le retour vers Ax est incroyable !
+Aucun coup de pédale n'est nécessaire, nous nous contentons d'admirer les montagnes environnantes ⛰️.
+Nous restons toutefois vigilants à la route et aux voiture 🚗 qui nous dépassent tranquillement.
+
+Le retour en train vers Toulouse se fait en douceur, nous permettant de commencer à récupérer de la journée 😴.
+Quelques vélos non réservés font tout de même leur entrée dans le trains.
+Cela complique un peu la sortie à Toulouse mais nous parvenons tout de même à sortir les vélos au bon arrêt 🚉. 
+
+![]({{ site.baseurl }}/images/bloc_orlu/retour_train.jpg)
+*Attente pour le retour en train vers Toulouse.*
+
+Nous rentrons bien épuisés de cette sortie mais très heureux d'avoir passé la journée en montagne à grimper 😃 !
+Malgré l'organisation nécessaire, il s'agit d'une sortie à la journée qui se fait très bien, avec un trajet peu coûteux si réservé au bon moment.
+On espère toutefois que le système de réservation pour vélo s'améliore dans le futur.
+En tout cas, on retournera à Orlu !
