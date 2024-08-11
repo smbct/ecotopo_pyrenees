@@ -5,6 +5,7 @@ date:   2024-08-10 10:00:00 +0300
 image:  bloc_orlu/bloc_orlu_1.jpg
 tags:   Escalade
 comments: true
+author: Samuel
 ---
 
 Dimanche c'était escalade de bloc à Orlu !
