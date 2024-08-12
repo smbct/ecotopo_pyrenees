@@ -4,6 +4,7 @@ https://github.com/artemsheludko/zolan
 
 ## Local build
 
+Needs [Ruby](https://www.ruby-lang.org/fr/) and [jekyll](https://jekyllrb.com/) installed.
 From the main branch : "bundle exec jekyll serve"
 Site created in the "_site" directory.
 
