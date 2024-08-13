@@ -7,8 +7,8 @@ image: infos_utiles.jpg
 
 Plusieurs informations utiles sur les transports vers et dans les pyrénées.
 
-## Randonnée
+- Escalade : [Ecopoint climbing](https://ecopointclimbing.com/)
 
-## Escalade
+- Transports en commun : [Sorties depuis Toulouse](https://www.camptocamp.org/articles/979346/fr/changer-d-approche-idees-de-sorties-montagne-sans-voiture-depuis-toulouse#refuge-despingo)
 
-[Ecopoint climbing](https://ecopointclimbing.com/)
+- Campagne Mountain Wilderness [changerdapproche](https://www.changerdapproche.org/)
