@@ -71,15 +71,15 @@ Le pic est vraiment impressionnant, son sommet particulièrement escarpé en roc
 ![Le pic du midi d'Ossau, majestueux vu du col d'Ayous]({{ site.baseurl }}/images/gr10_lescun_cauterets/pic_ossau_ayous.jpg)
 *Le pic du midi d'Ossau, majestueux vu du col d'Ayous.*
 
-Au deçà du pique du midi d'Ossau, le col d'Ayous est sublime, plusieurs lacs y sont visibles !
+Au deçà du pic du midi d'Ossau, le col d'Ayous est sublime, plusieurs lacs y sont visibles !
 
 ![Les lacs d'Ayous.]({{ site.baseurl }}/images/gr10_lescun_cauterets/lacs_ayous.jpg)
 *Les lacs d'Ayous.*
 
-Motivés par l'ambiance et par un timing favorable, nous décidons de poser nos sacs 🎒 au col afin de gravir le pique d'Ayous qui nous offre une encore meilleure vue 📷 pour 200 mètres supplémentaires (quel plaisir de grimper sans les sacs 🏋🏻 !).
+Motivés par l'ambiance et par un timing favorable, nous décidons de poser nos sacs 🎒 au col afin de gravir le pic d'Ayous qui nous offre une encore meilleure vue 📷 pour 200 mètres supplémentaires (quel plaisir de grimper sans les sacs 🏋🏻 !).
 
-![Au sommet du pique d'Ayous.]({{ site.baseurl }}/images/gr10_lescun_cauterets/pique_ayous.jpg)
-*Au sommet du pique d'Ayous.*
+![Au sommet du pic d'Ayous.]({{ site.baseurl }}/images/gr10_lescun_cauterets/pic_ayous.jpg)
+*Au sommet du pic d'Ayous.*
 
 Nous entamons ensuite la descente du col.
 Ne nous savons pas encore à ce moment là ou nous pourrons poser la tente pour la nuit.
@@ -89,11 +89,60 @@ Une zone de bivouac permet en effet de nous y poser tranquillement 🏕️.
 ![Le lac de Bious-Artigues, havre de paix.]({{ site.baseurl }}/images/gr10_lescun_cauterets/bious-artigues.jpg)
 *Le lac de Bious-Artigues, havre de paix.*
 
-Le lac est super, nous y côtoyons des chevaux 🐎 laissés en liberté durant la nuit (aucun risque nous concernant grâce à la zone de bivouac cloturée).  
+Le lac est super, nous y côtoyons des chevaux 🐎 laissés en liberté durant la nuit (aucun risque nous concernant grâce à la zone de bivouac clôturée).  
 Une épicerie et une buvette y permettent de se requinquer et la présence d'une source 🚰 et de toilettes sèches 🚾 rend presque le bivouac luxueux !
 
-## Une pause à Gourette
+Le lendemain, nous effectuons une étape bonus par rapport au tracé du GR : le tour du pic du midi d'Ossau !
+Cette étape détaillée dans le topo mais non balisée consiste à effectuer le tour complet du pic 🔂 afin de l'observer sous tous ses angles (ou presque !) en passant notamment par le refuge de la Pombie 🛖.
+Cette extension nous permet de découvrir d'avantages de lacs et même d'apercevoir des marmottes !
+
+![Le pic vu de l'autre côté.]({{ site.baseurl }}/images/gr10_lescun_cauterets/pic_arrière.jpg)
+*Le pic vu de l'autre côté.*
+
+Contrairement à ce que nous avions anticipé, cette étape nous a finalement pris une seule journée, ce qui nous a permis de retourner bivouaquer au lac de Bious-Artigues le soir même 🎑. 
+
+## La hourquette d'Arre
+
+Au 5ème jour, nous quittons définitivement Bious-Artigues afin de poursuivre le GR vers la hourquette d'Arre, un col bien pentu à passer avant de pouvoir atteindre la station de Gourette.
+Nous nous faisons par ailleurs offrir une boisson chaude 🍵 par un chevrier 🐐 en guise de remerciement pour un petit coup de main donné la veille.
+La discussion est très intéressante, cela nous aura permis notamment d'aborder la question du partage de la montagne (entre touriste et locaux) ainsi que l'évolution de la montagne au fil des saisons 🍂.
+C'est aussi pour ce genre de moments que nous aimons la montagne et le trek ✨ !
+
+Nous poursuivons ensuite dans la vallée pour finalement remonter afin de nous diriger vers la hourquette.
+Cette partie du trajet se révèle vertigineuse 🧗avec en premier lieu une corniche à passer (avec la présence d'une main courante) puis, plus tard dans la journée, un chemin plat en bord de falaise 🪨.
+
+Alors que nous cherchons un endroit de bivouac en fin d'après-midi, nous nous faisons barrer la route 🚧 par un patou 🐕 !
+Nous décidons de contourner le chemin et apercevons finalement le troupeau de brebis ainsi que son propriétaire qui nous aide à passer.
+Nous finissons par nous arrêter dans un endroit sublime loin de toute agitation humaine 🌲.
+
+![En chemin vers la hourquette.]({{ site.baseurl }}/images/gr10_lescun_cauterets/bivouac_arre.jpg)
+*En chemin vers la hourquette.*
+
+Le lendemain, nous attaquons la hourquette !
+Celle-ce est bien raide mais l'entraînement des jours précédents nous permet d'arriver en haut assez rapidement.
+Nous profitons alors d'une superbe vue ! 
+
+![La vue de la hourquette d'Arre.]({{ site.baseurl }}/images/gr10_lescun_cauterets/hourquette_arre.jpg)
+*La vue de la hourquette d'Arre.*
+
+## Une pause bienvenue
+
+Une fois la hourquette d'Arre passée, nous entamons une assez longue descente vers Gourette, station de ski ⛷️ et de VTT 🚵.
+Cette étape se fait en fait attendre car nous y avions réservé la veille une chambre en gîte 🛏️ !
+Avec un peu de fatigue 😴 accumulée depuis le début du trek et une envie de profiter des vacances en mode confort, une nuit confort nous paraissait appropriée, il faut bien profiter des vacances après-tout ⛱️ !
+
+Le retour "à la civilisation" 🏙️ avec l'arrivée dans la station nous cause cependant un léger choc, ayant été habitués à la tranquillité sur les jours précédents.
+Le confort de la station a un prix, nous sommes légèrement tristes de voir autant d'immeubles en pleine montagne 😥.
+Cependant, le gîte où nous nous arrêtons correspond parfaitement à l'esprit du GR : pas très grand, avec une aire de bivouac prévue pour le trek et un gérant sympathique offrant des conseils d'itinéraires 😃 !
+
 
 ## En route pour Cauterets
+
+Dans la brume vers Arrens
+Estaing, son lac et son absence de zone de bivouac
+
+col d'ileou
+aperçu du pic du midi de Bigorre en allant vers le lac d'Ileou
+bivouac au lac d'ileou
 
 ## Le retour vers Toulouse
