@@ -43,27 +43,57 @@ C'est l'application [Komoot](https://www.komoot.com/fr-fr) qui nous permet d'avo
 
 Cette première journée nous emmène finalement au camping du Lauzart 🏕️ qui nous permet de profiter d'un peu de confort 🚿 avant de débuter les bivouacs.
 
-## Vers Bious-Artigues
+## En route vers la vallée d'Ossau
 
 Notre deuxième jour de marche nous fait passer par un premier col pour rejoindre les villages de Borce et Etsaut 🏘️ qui nous permettant d'effectuer le ravitaillement 🥫.
-Alors que notre marche du jour commence de manière ennuagée ☁️, l'arrivée au col avant d'atteindre Borce nous offre une jolie vue grâce au retour du soleil ⛅ ! Nous apercevons même pour la première fois le pic du midi d'Ossau au loin, attraction principale de nos premiers jours de trek. 
-
-Petit aparté, nous avons constaté avec tristesse un mois plus tard dans les médias les dégâts causés par [les innondations](https://www.leparisien.fr/meteo/pyrenees-atlantiques-plusieurs-villages-inondes-les-routes-vers-lespagne-coupees-07-09-2024-J37UIET6I5G3JAHHS3KI2ABEW4.php) dans la vallée d'Aspe, notamment à Etsaut où l'épicerie où nous nous sommes arrêtés semble avoir été bien endommagée 😢 Courage aux victimes 💪 !
+Alors que notre marche du jour commence de manière ennuagée ☁️, l'arrivée au col avant d'atteindre Borce nous offre une jolie vue grâce au retour du soleil ⛅ ! Nous apercevons même pour la première fois le pic du midi d'Ossau ⛰️ au loin, attraction principale de nos premiers jours de trek. 
 
 ![Les montagnes se découvrent.]({{ site.baseurl }}/images/gr10_lescun_cauterets/lauzart_vers_borce.jpg)
 *Les montagnes se découvrent.*
 
+Petit aparté, nous avons constaté avec tristesse un mois plus tard dans les médias [les dégâts](https://www.leparisien.fr/meteo/pyrenees-atlantiques-plusieurs-villages-inondes-les-routes-vers-lespagne-coupees-07-09-2024-J37UIET6I5G3JAHHS3KI2ABEW4.php) causés par les inondations 🌊 dans la vallée d'Aspe, notamment à Etsaut où l'épicerie où nous nous sommes arrêtés semble avoir été bien endommagée 😢 Courage aux victimes 💪 !
+
+Une fois ravitaillés, nous nous mettons en quête du premier passage technique de nos vacances : le chemin de la Mâture !
+Il s'agit d'un chemin taillé dans la roche.
+La prudence s'impose pour ce passage vertigineux car le chemin n'est pas très protégé malgré la présence du vide sur tout son long.
+Cette étape fut difficile pour nous à cause de la chaleur ☀️, de l'heure avancée 🕔 et de la fatigue accumulée dans la journée.
+Nous arrivons péniblement au bout du chemin (en montée) et nous plantons la tente au premier endroit plat rencontré pour une pause nocturne bienvenue ⛺.
 
 
-![Le lac de Bious-Artigues, havre de paix.]({{ site.baseurl }}/images/gr10_lescun_cauterets/bious-artigues.jpg)
-*Le lac de Bious-Artigues, havre de paix.*
+## Le pic du midi d'Ossau
 
+Notre troisième jour démarre avec une montée vers le col d'Ayous sous un soleil de plomb ☀️ (elles manquent parfois d'ombre, ces montagnes !).
+Par ailleurs, nous ne savons pas à quel moment le pic du midi d'Ossau, que nous avions brièvement aperçu la veille, va réapparaître.
+C'est finalement lors du passage du col d'Ayous que nous le voyons, et nous ne sommes pas déçus 😍 !
+Le pic est vraiment impressionnant, son sommet particulièrement escarpé en roche volcanique domine absolument tout ⛰️.
 
-## La vallée d'Ossau
 
 ![Le pic du midi d'Ossau, majestueux vu du col d'Ayous]({{ site.baseurl }}/images/gr10_lescun_cauterets/pic_ossau_ayous.jpg)
 *Le pic du midi d'Ossau, majestueux vu du col d'Ayous.*
 
+Au deçà du pique du midi d'Ossau, le col d'Ayous est sublime, plusieurs lacs y sont visibles !
+
+![Les lacs d'Ayous.]({{ site.baseurl }}/images/gr10_lescun_cauterets/lacs_ayous.jpg)
+*Les lacs d'Ayous.*
+
+Motivés par l'ambiance et par un timing favorable, nous décidons de poser nos sacs 🎒 au col afin de gravir le pique d'Ayous qui nous offre une encore meilleure vue 📷 pour 200 mètres supplémentaires (quel plaisir de grimper sans les sacs 🏋🏻 !).
+
+![Au sommet du pique d'Ayous.]({{ site.baseurl }}/images/gr10_lescun_cauterets/pique_ayous.jpg)
+*Au sommet du pique d'Ayous.*
+
+Nous entamons ensuite la descente du col.
+Ne nous savons pas encore à ce moment là ou nous pourrons poser la tente pour la nuit.
+Après une descente dans une forêt et une discussion autour du topo, nous décidons d'aller jusqu'au lac de Bious-Artigues.
+Une zone de bivouac permet en effet de nous y poser tranquillement 🏕️.
+
+![Le lac de Bious-Artigues, havre de paix.]({{ site.baseurl }}/images/gr10_lescun_cauterets/bious-artigues.jpg)
+*Le lac de Bious-Artigues, havre de paix.*
+
+Le lac est super, nous y côtoyons des chevaux 🐎 laissés en liberté durant la nuit (aucun risque nous concernant grâce à la zone de bivouac cloturée).  
+Une épicerie et une buvette y permettent de se requinquer et la présence d'une source 🚰 et de toilettes sèches 🚾 rend presque le bivouac luxueux !
+
+## Une pause à Gourette
+
 ## En route pour Cauterets
 
-## Le retour
+## Le retour vers Toulouse
