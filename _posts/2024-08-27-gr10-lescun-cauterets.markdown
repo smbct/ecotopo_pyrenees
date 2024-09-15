@@ -25,16 +25,16 @@ Le GR10 est d'ailleurs plus accessible que la [Haute Randonnée Pyrénéennes](h
 
 
 Ayant déjà commencé le GR quelques années auparavant, nous décidons de repartir de l'endroit ou je l'avais quitté, à savoir Lescun dans les Pyrénées Atlantiques.
-Nous prévoyons une dizaine de jours de trek (ou moins si problèmes de type blessure etc...) sans pour autant décider de notre étape du retour.
+Nous prévoyons une dizaine de jours de trek maximum, sans pour autant décider de notre étape du retour.
 Pour ce type de trek, les transports en communs sont le moyen de prédilection pour l'accès car le but est justement de parcourir de longues distances !
 Des gares de train 🚆 et de bus 🚍 se présentent ainsi régulièrement sur le tracé. 
 
 ## Le départ
 
 L'idée de partir de Lescun n'était pas évidente car bus et trains ne rallient pas directement cette petite commune 🏘️.
-Alors que j'avais personnellement opté pour le stop lors de mon précédent séjour sur le GR, nous décidons ici de nous rajouter une journée de marche supplémentaire en montagne afin de rejoindre Lescun à partir de la gare de train la plus proche : Bedous.
+Alors que j'avais personnellement opté pour l'auto-stop 🚗 lors de mon précédent séjour sur le GR, nous décidons ici de nous rajouter une journée de marche supplémentaire en montagne afin de rejoindre Lescun à partir de la gare de train 🚉 la plus proche : Bedous.
 
-Nous partons donc pour un peu moins de 4h de train 🚉 : Toulouse -> Pau (~ 2h30) dans un premier temps puis Pau -> Bedous (~1h).
+Nous partons donc pour un peu moins de 4h de train 🚆 : Toulouse -> Pau (~ 2h30) dans un premier temps puis Pau -> Bedous (~1h).
 Nous arrivons en début d'après-midi ce qui nous laisse le temps de marcher jusqu'au camping du Lauzart, étape du GR10.
 C'est l'application [Komoot](https://www.komoot.com/fr-fr) qui nous permet d'avoir une itinéraire de marche agréable, malgré une courte étape de route national peu rassurante 🛣️ 🥵.
 
@@ -71,20 +71,20 @@ Le pic est vraiment impressionnant, son sommet particulièrement escarpé en roc
 ![Le pic du midi d'Ossau, majestueux vu du col d'Ayous]({{ site.baseurl }}/images/gr10_lescun_cauterets/pic_ossau_ayous.jpg)
 *Le pic du midi d'Ossau, majestueux vu du col d'Ayous.*
 
-Au deçà du pic du midi d'Ossau, le col d'Ayous est sublime, plusieurs lacs y sont visibles !
+Au-deçà du pic du midi d'Ossau, le col d'Ayous est sublime, plusieurs lacs y sont visibles !
 
 ![Les lacs d'Ayous.]({{ site.baseurl }}/images/gr10_lescun_cauterets/lacs_ayous.jpg)
 *Les lacs d'Ayous.*
 
-Motivés par l'ambiance et par un timing favorable, nous décidons de poser nos sacs 🎒 au col afin de gravir le pic d'Ayous qui nous offre une encore meilleure vue 📷 pour 200 mètres supplémentaires (quel plaisir de grimper sans les sacs 🏋🏻 !).
+Motivés par l'ambiance et par un timing favorable, nous décidons de poser nos sacs 🎒 au col afin de gravir le pic d'Ayous. Pour 200 mètres supplémentaires, celui-ci nous offre une encore meilleure vue 📷 (et quel plaisir de grimper sans les sacs 🏋🏻 !).
 
 ![Au sommet du pic d'Ayous.]({{ site.baseurl }}/images/gr10_lescun_cauterets/pic_ayous.jpg)
 *Au sommet du pic d'Ayous.*
 
-Nous entamons ensuite la descente du col.
-Ne nous savons pas encore à ce moment là ou nous pourrons poser la tente pour la nuit.
-Après une descente dans une forêt et une discussion autour du topo, nous décidons d'aller jusqu'au lac de Bious-Artigues.
-Une zone de bivouac permet en effet de nous y poser tranquillement 🏕️.
+Nous entamons ensuite la descente de l'autre côté du col.
+Ne nous savons pas encore à ce moment là où nous pourrons poser la tente pour la nuit.
+Après une descente dans une forêt 🌲 et une discussion autour du topo, nous décidons d'aller jusqu'au lac de Bious-Artigues, à l'orée du parc national des Pyrénées.
+Une zone de bivouac prévue y permet en effet de nous poser tranquillement 🏕️.
 
 ![Le lac de Bious-Artigues, havre de paix.]({{ site.baseurl }}/images/gr10_lescun_cauterets/bious-artigues.jpg)
 *Le lac de Bious-Artigues, havre de paix.*
@@ -92,9 +92,12 @@ Une zone de bivouac permet en effet de nous y poser tranquillement 🏕️.
 Le lac est super, nous y côtoyons des chevaux 🐎 laissés en liberté durant la nuit (aucun risque nous concernant grâce à la zone de bivouac clôturée).  
 Une épicerie et une buvette y permettent de se requinquer et la présence d'une source 🚰 et de toilettes sèches 🚾 rend presque le bivouac luxueux !
 
+![Nous côtoyons les chevaux au bord du lac.]({{ site.baseurl }}/images/gr10_lescun_cauterets/bious-artigues-chevaux.jpg)
+*Nous côtoyons les chevaux au bord du lac.*
+
 Le lendemain, nous effectuons une étape bonus par rapport au tracé du GR : le tour du pic du midi d'Ossau !
-Cette étape détaillée dans le topo mais non balisée consiste à effectuer le tour complet du pic 🔂 afin de l'observer sous tous ses angles (ou presque !) en passant notamment par le refuge de la Pombie 🛖.
-Cette extension nous permet de découvrir d'avantages de lacs et même d'apercevoir des marmottes !
+Cette étape détaillée dans le topo officiel mais non balisée consiste à effectuer le tour complet du pic 🔂 afin de l'observer sous tous ses angles (ou presque !) en passant notamment par le refuge de la Pombie 🛖.
+Cette extension nous permet de découvrir de nouveaux lacs et même d'apercevoir des marmottes !
 
 ![Le pic vu de l'autre côté.]({{ site.baseurl }}/images/gr10_lescun_cauterets/pic_arrière.jpg)
 *Le pic vu de l'autre côté.*
@@ -103,8 +106,8 @@ Contrairement à ce que nous avions anticipé, cette étape nous a finalement pr
 
 ## La hourquette d'Arre
 
-Au 5ème jour, nous quittons définitivement Bious-Artigues afin de poursuivre le GR vers la hourquette d'Arre, un col bien pentu à passer avant de pouvoir atteindre la station de Gourette.
-Nous nous faisons par ailleurs offrir une boisson chaude 🍵 par un chevrier 🐐 en guise de remerciement pour un petit coup de main donné la veille.
+Au 5ème jour, nous quittons définitivement Bious-Artigues afin de poursuivre le GR vers la hourquette d'Arre, un col bien pentu à passer avant de pouvoir atteindre la commune de Gourette.
+Nous nous faisons par ailleurs offrir une boisson chaude 🍵 par un chevrier 🧍🐐 en guise de remerciement pour un petit coup de main donné la veille.
 La discussion est très intéressante, cela nous aura permis notamment d'aborder la question du partage de la montagne (entre touriste et locaux) ainsi que l'évolution de la montagne au fil des saisons 🍂.
 C'est aussi pour ce genre de moments que nous aimons la montagne et le trek ✨ !
 
@@ -119,7 +122,7 @@ Nous finissons par nous arrêter dans un endroit sublime loin de toute agitation
 *En chemin vers la hourquette.*
 
 Le lendemain, nous attaquons la hourquette !
-Celle-ce est bien raide mais l'entraînement des jours précédents nous permet d'arriver en haut assez rapidement.
+Celle-ce est bien raide mais l'entraînement des jours précédents nous permet d'arriver en haut assez rapidement ⏱️.
 Nous profitons alors d'une superbe vue ! 
 
 ![La vue de la hourquette d'Arre.]({{ site.baseurl }}/images/gr10_lescun_cauterets/hourquette_arre.jpg)
@@ -128,21 +131,57 @@ Nous profitons alors d'une superbe vue !
 ## Une pause bienvenue
 
 Une fois la hourquette d'Arre passée, nous entamons une assez longue descente vers Gourette, station de ski ⛷️ et de VTT 🚵.
-Cette étape se fait en fait attendre car nous y avions réservé la veille une chambre en gîte 🛏️ !
-Avec un peu de fatigue 😴 accumulée depuis le début du trek et une envie de profiter des vacances en mode confort, une nuit confort nous paraissait appropriée, il faut bien profiter des vacances après-tout ⛱️ !
+Nous avons en fait hâte d'y arriver car nous y avions réservé une chambre en gîte la veille 🛏️  !
+Avec un peu de fatigue accumulée 😴 depuis le début du trek et une envie de profiter en mode confort, une nuit cocooning nous paraissait appropriée.
+Il faut bien profiter des vacances après-tout ⛱️ !
 
-Le retour "à la civilisation" 🏙️ avec l'arrivée dans la station nous cause cependant un léger choc, ayant été habitués à la tranquillité sur les jours précédents.
-Le confort de la station a un prix, nous sommes légèrement tristes de voir autant d'immeubles en pleine montagne 😥.
-Cependant, le gîte où nous nous arrêtons correspond parfaitement à l'esprit du GR : pas très grand, avec une aire de bivouac prévue pour le trek et un gérant sympathique offrant des conseils d'itinéraires 😃 !
+Le retour "à la civilisation" 🏙️ 🚘 avec l'arrivée dans la station nous cause cependant un léger choc, ayant été habitués à la tranquillité sur les jours précédents.
+Le confort de la station a un prix, nous sommes un peu tristes de voir autant d'immeubles et de bitume en pleine montagne 😥.
+Cependant, le gîte où nous nous arrêtons correspond parfaitement à l'esprit du GR : pas très grand, avec une aire de bivouac prévue pour trekkers et un gérant sympathique nous offrant des conseils d'itinéraires 😃 !
 
+
+## En quête de pelouse ⛳
+
+Bien requinqués de cette pause confort, nous nous remettons en route pour le sixième jour avec un nouvel objectif en tête 💡.
+Nous visons en effet la ville de Cauterets pour l'arrêt de notre trek, d'une part pour découvrir cet endroit assez connu des Pyrénées, mais aussi pour rejoindre une garde routière 🚏 nous permettant ensuite de repartir vers Toulouse.
+
+Cette sixième journée débute dans la brume 🌫️.
+Nous partons dans la direction de Arrens et Estaing.
+Nous suivons notamment une crête assez jolie et nous entrons pour la première fois dans le département des Hautes-Pyrénées ⛰️.
+
+![La crête sur le chemin vers Arrens.]({{ site.baseurl }}/images/gr10_lescun_cauterets/crête_arrens.jpg)
+*La crête sur le chemin vers Arrens.*
+
+Nous atteignons la commune d'Estaing en fin de journée.
+Les galères commencent cependant car nous arrivons trop tard pour obtenir une place en camping et nous ne trouvons aucune aire de bivouac pour trekker contrairement à ce que nous espérions 😨.
+Malheureusement pour nous, il ne nous est pas possible d'avancer beaucoup plus à cause de la fatigue et de l'heure déjà bien avancée 🕗.
+Nous finissons par croiser une personne qui nous propose très gentiment de planter la tente dans son jardin ⛺, merci à lui !  
 
 ## En route pour Cauterets
 
-Dans la brume vers Arrens
-Estaing, son lac et son absence de zone de bivouac
+Nous arrivons tranquillement vers la fin de notre périple.
+Notre huitième jour consiste à franchir le col d'Ileou et d'atteindre son lac en altitude 🏖️ afin d'y dormir sur une zone de bivouac.
 
-col d'ileou
-aperçu du pic du midi de Bigorre en allant vers le lac d'Ileou
-bivouac au lac d'ileou
+Le passage du col se fait tranquillement malgré le dénivelé.
+Nous apercevons même le pic du midi de Bigorre au loin grâce à l'observatoire qui y est perché 🔭 !
+Nous arrivons ensuite au lac assez tôt dans l'après-midi, ce qui nous permet de nous détendre un peu 🥱 et profiter du lieu.
+
+![Le lac d'Ileou.]({{ site.baseurl }}/images/gr10_lescun_cauterets/lac_ileou.jpg)
+*Le lac d'Ileou. Il est où ?*
+
+Nous nous réveillons le lendemain au bord du lac au pour démarrer notre neuvième et dernier jour de marche 👟, entre hâte de retrouver le confort 🚿 et peine de quitter ces lieux incroyables ✨.
+Nous entamons ainsi la descente vers la ville de Cauterets.
+
+![Arrivée vers Cauterets.]({{ site.baseurl }}/images/gr10_lescun_cauterets/cauterets.jpg)
+*Arrivée vers Cauterets.*
 
 ## Le retour vers Toulouse
+
+Arrivés à Cauterets en début d'après-midi, nous décidons d'opter pour un bus partant en fin d'après-midi pour notre retour 🕕.
+Cela nous permet de prendre le temps pour un café ☕ puis d'aller visiter la maison du parc National de Pyréneés.
+Nous y visitons gratuitement un chouette musée qui nous permet entre autre d'en apprendre plus sur les isards, incroyables habitants de ces montagnes 🐾 !
+
+Nous arrivons finalement à cette fin de périple avec notre départ en bus.
+Ce premier bus 🚍 nous emmène en fait vers Lourdes, plus proche ville avec une gare SNCF.
+à noter que deux bus partent au même moment : un bus "lent" qui effectue plusieurs arrêts, et un bus "expresse" qui va directement à la gare de Lourdes 🚉, de quoi rassurer pour les correspondances tendues !
+Dans notre cas, nous arrivons très en avance pour notre TER qui nous ramène finalement vers Toulouse en environ 2 heures.
