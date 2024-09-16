@@ -1,7 +1,7 @@
 ---
 title:  9 jours sur le GR10 depuis Toulouse
 layout: post
-date:   2024-08-27 10:00:00 +0300
+date:   2024-09-10 10:00:00 +0300
 image:  gr10_lescun_cauterets/pic_ossau_ayous.jpg
 tags:   Trekking Randonnée
 comments: true
