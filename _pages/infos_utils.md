@@ -12,3 +12,5 @@ Plusieurs informations utiles sur les transports vers et dans les pyrénées.
 - Transports en commun : [Sorties depuis Toulouse](https://www.camptocamp.org/articles/979346/fr/changer-d-approche-idees-de-sorties-montagne-sans-voiture-depuis-toulouse#refuge-despingo)
 
 - Campagne Mountain Wilderness [changerdapproche](https://www.changerdapproche.org/)
+
+- Communauté les Boucs en train [https://lesboucsentrain.com/](https://lesboucsentrain.com/)
