@@ -31,7 +31,7 @@
     margin-left: -10%;
     z-index: 1;
     border-radius: 3px;
-    background: rgba(255, 255, 255, 0.98);
+    background: rgba(255, 255, 255, 0.7);
     box-shadow: 0 1px 4px rgba(0,0,0,0.15);
 
     .article__tag {
@@ -64,6 +64,9 @@
       line-height: 18px;
       text-transform: uppercase;
       color: $gray;
+      // color:red ;
+      color:rgb(110, 110, 110);
+      font-weight: 900;
     }
 
     .article__footer {
