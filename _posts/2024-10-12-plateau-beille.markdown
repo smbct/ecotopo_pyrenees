@@ -10,7 +10,7 @@ author: Samuel
 
 La montagne est par définition un lieu difficilement accessible et, nous le savons, c'est en parti la voiture qui a permis d'y démocratiser le tourisme en facilitant son accès.
 Notre dernière sortie avait pour but d'expérimenter l'utilisation du vélo pour monter en altitude afin d'atteindre un départ de randonnée et de marcher donc ensuite avant de redescendre.
-Les but est donc de rendre accessible un maximum d'endroits sans reposer sur la voiture.
+Le but est donc de rendre accessible un maximum d'endroits sans reposer sur la voiture.
 
 ## Le plateau de Beille
 
@@ -42,7 +42,7 @@ En fait, nous effectuons cette sortie lors du premier weekend du mois, ce qui im
 Autre explication du nombre important de voyageurs : l'été est déjà loin et il s'agit probablement d'un des derniers weekends pour profiter du beau temps en montagne ⛅.
 
 Nous nous retrouvons par ailleurs à côté d'un cycliste ayant prévu également de monter au plateau de Beille !
-N'étant pas cycliste, j'apprends alors que le premier col que nous passons est un col de [troisième catégorie](https://velomontagne.fr/comment-les-cols-sont-classes-en-categories/) et que la montée vers le plateau de Beille est classée [hors catégorie](https://www.ludo-sport-aventure.com/blog/cols-et-montees-a-velo/la-montee-du-plateau-de-beille-a-velo-depuis-les-cabannes-ariege.html).
+N'étant pas cycliste, j'apprends alors que le premier col que nous passons est un col de [troisième catégorie](https://velomontagne.fr/comment-les-cols-sont-classes-en-categories/) et que la montée vers le plateau de Beille est classée [hors catégorie](https://www.ludo-sport-aventure.com/blog/cols-et-montees-a-velo/la-montee-du-plateau-de-beille-a-velo-depuis-les-cabannes-ariege.html) (niveaux de difficulté pour le cyclisme).
 Autant dire que nous allons bien pédaler !
 
 ![La chaîne des Pyrénées qui devient visible durant le trajet aller.]({{ site.baseurl }}/images/beille_velo/aller-train.jpg)
@@ -51,7 +51,8 @@ Autant dire que nous allons bien pédaler !
 ## Le premier col
 
 Arrivée à Foix, nous démarrons notre périple à vélo.
-Pour l'occasion nous emmenons nos vélos légers et performants (comprenez par là : nous ne prenons pas les VTT !) afin de faciliter la tâche (gravel de mon côté et vélo de route pour Helmut).
+Pour l'occasion nous emmenons nos vélos légers et performants afin de faciliter la tâche (sans pour autant être high techs ; comprenez par là que nous ne prenons pas les VTT !).
+C'est donc gravel de mon côté et vélo de route pour Helmut.
 Les vélos sont équipés de porte-bagage, ce qui nous permet d'y placer nos sacs de marche grâce à des tendeurs (là ou les cyclistes n'ont généralement pas de bagages).
 Pour nous aider, nous utilisons également les applications [géovélo](https://geovelo.app/fr/) et [Komoot](https://www.komoot.com/fr-fr) 📱 qui proposent des itinéraires adaptés aux vélos !
 Comment ça ?! On a l'air de touristes !? 🤔 😂
@@ -72,7 +73,8 @@ Je prend tout de même soin de freiner par à-coups et non en continue comme on 
 *Arrivée au village des Cabannes.*
 
 Nous arrivons donc assez tôt au village des Cabannes, le temps de faire une petite pause restauration avant de se lancer vers le plateau de Beille 🚀.
-Détail important : nos sacs sont difficilement accessibles sur le porte bagage car accrochés avec des tendeurs 🎒.
+On peut d'ailleurs préciser que des départs de randonnées sont possibles depuis ce village, très pratique avec la proximité de la gare !
+Détail important nous concernant : nos sacs sont difficilement accessibles sur le porte bagage car accrochés avec des tendeurs 🎒.
 Erreur de ma part, je n'ai pas prévu de nourriture (type barre de céréales) hors de mon sac 🥫 ! 
 Heureusement j'ai au moins une gourde remplie d'eau sur le porte gourde 🚰 !
 
@@ -94,7 +96,7 @@ En plus de cela, la difficulté à tenir le rythme au niveau des jambes me contr
 
 Arrivée à mi-chemin de la montée, là c'est la perte totale d'énergie de mon côté 🪫 !
 Je commence à avoir très faim et chaque coup de pédale me brûle les jambes et me parait insurmontable.
-Pas loin d'abandonnée la montée 🏳️, je décide donc de faire une pause plus longue 🕙 et m'arrête dans un large virage hors de la route.
+Pas loin d'abandonnér la montée 🏳️, je décide donc de faire une pause plus longue 🕙 et m'arrête dans un large virage hors de la route.
 J'en profite pour bien boire et défaire mon sac afin de manger une partie de mon repas 🍜.
 Au bout d'un moment, je tombe sur le cycliste croisé dans le train qui effectue sa redescente 🚴 !
 Il s'arrête pour me demander si tout va bien et je lui explique la difficulté 😨.
