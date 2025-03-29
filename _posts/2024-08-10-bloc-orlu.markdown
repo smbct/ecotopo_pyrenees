@@ -28,7 +28,7 @@ Niveau vélo, le VTT fait amplement l'affaire, un simple sac à dos comme bagage
 Plus d'informations sur [ce site](https://www.ter.sncf.com/occitanie/services-contacts/voyager-avec-son-velo).
 Malheureusement peu d'emplacements vélo sont disponibles par train 😕.
 
-![]({{ site.baseurl }}/images/bloc_orlu/vélo_dans_train.jpg)
+![]({{ site.baseurl }}/images/bloc_orlu/velo_dans_train.jpg)
 *Le vélo dans le train, à l'emplacement prévu pour accueillir 3 vélos.*
 
 Nous profitons du train pour nous détendre et parler des projets en cours.
@@ -41,7 +41,7 @@ Nous nous retrouvons à Ax après 1h30 de train pour faire le chemin à vélo en
 Nous sommes 4 en tout.
 Pour cette sorti, nous avions loués un grand crashpad dans une salle d'escalade pour 12€ la journée.
 
-![]({{ site.baseurl }}/images/bloc_orlu/vélo_ax.jpg)
+![]({{ site.baseurl }}/images/bloc_orlu/velo_ax.jpg)
 *En mode convoi exceptionnel dans les rues d'Ax 👷.*
 
 Nous nous arrêtons en chemin pour acheter le topo du site de bloc dans l'office de tourisme d'Ax ℹ️, ouverte le dimanche en période estivale.
@@ -52,14 +52,14 @@ C'est globalement tout droit en sorti d'Ax !
 Environ 150m de montée, avec une pente un peu plus raide au départ d'Ax mais raisonnable, le chemin est globalement très agréable entouré des montagnes 🏞️.
 Nous longeons une rivière et un étang et nous apercevons la dent d'Orlu en fond ⛰️ !
 
-![La route à vélo d'Ax au site de bloc, avec la dent d'Orlu au fond à gauche.]({{ site.baseurl }}/images/bloc_orlu/vélo_vers_orlu.jpg)
+![La route à vélo d'Ax au site de bloc, avec la dent d'Orlu au fond à gauche.]({{ site.baseurl }}/images/bloc_orlu/velo_vers_orlu.jpg)
 *La route à vélo de Ax au site de bloc, avec la dent d'Orlu au fond à gauche.*
 
 Nous arrivons assez rapidement au parking du site de bloc.
 Notre sherpa du crashpad n'a heureusement rencontré aucun problème particulier en chemin !
 Un porte bagage et des sacoches 👜 sur le vélo 🚲 peuvent tout de même se révéler pratique pour pouvoir tout porter, même si à 4 nous pouvions encore nous organiser facilement. 
 
-![Arrivée au site de bloc de la vallée d'Orlu.]({{ site.baseurl }}/images/bloc_orlu/arrivée_site_bloc.jpg)
+![Arrivée au site de bloc de la vallée d'Orlu.]({{ site.baseurl }}/images/bloc_orlu/arrivee_site_bloc.jpg)
 *Arrivée au site de bloc de la vallée d'Orlu.*
 
 S'ensuit une journée de bloc très sympa !
@@ -77,7 +77,7 @@ Les réceptions sont plutôt sûres et nous nous risquons un peu à chuter. Il f
 
 Le cadre est super ! Nous avons la rivière juste à côté des blocs, avec toutefois quelques 🦟 et autres insectes parfois invasifs.
 
-![]({{ site.baseurl }}/images/bloc_orlu/rivière_orlu.jpg)
+![]({{ site.baseurl }}/images/bloc_orlu/riviere_orlu.jpg)
 *Proximité de la rivière.*
 
 Nous nous arrêtons de bloquer suffisamment tôt pour faire une pause détente avant de repartir vers Ax.

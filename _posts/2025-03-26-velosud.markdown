@@ -1,0 +1,223 @@
+---
+title: 3 jours sur la vélosud
+layout: post
+date:   2025-03-26 10:00:00 +0300
+image:  velosud/saint_girons.jpg
+tags:   cyclotourisme cyclisme
+comments: true
+author: Samuel
+---
+
+Ayant déjà pratiqué le [trekking](https://fr.wikipedia.org/wiki/Trekking) à plusieurs reprises, tenter le [cyclotourisme](https://fr.wikipedia.org/wiki/Cyclotourisme) était avant tout pour moi l'occasion de transposer cette activité au cyclisme 🚴 afin de vivre des expériences similaires : parcourir des distances importantes sur plusieurs jours (au moins plus importantes que le vélo quotidien) et visiter/découvrir des nouveaux lieux, faire des rencontres, etc..
+
+J'ai tout de même longtemps hésité avant de me lancer, trouvant de nombreuses excuses comme le manque de temps, un équipement mal adapté, etc...
+On a donc fini par se planifier en binôme un weekend de trois jours en hiver ❄️ afin de franchir enfin le cap.
+Pour cette aventure, c'est la **vélosud** qui nous a attiré avec l'idée de voir les montagnes 🏔️ tout en gardant nos distances afin de ne pas subir les innombrables cols qu'elles nous offrent.
+
+## La vélosud
+
+La vélosud est un itinéraire cyclable traversant la France entre l'Atlantique et la Méditerrannée, au pied des Pyrénées.
+Le parcours, découpé en plusieurs étapes, est disponible à l'adresse suivante : [https://www.francevelotourisme.com/itineraire/la-velosud](https://www.francevelotourisme.com/itineraire/la-velosud).
+Cet itinéraire est indiqué comme étant de difficulté moyenne, plutôt accessible.
+Attention cependant ⚠️ à certaines étapes qui contiennent du dénivelé positif.
+
+Une bonne chose est le fait que l'itinéraire semble balisé tout du long !
+Nous avons pu constater qu'il suivait la [véloroute 81 du piémont pyrénéen](https://www.ma-voie-verte.fr/carte-voies-vertes-pistes-cyclables/v81-la-velosud-veloroute-du-piemont-pyreneen/).
+La plupart des voies empruntées par cet itinéraire sont des voies partagées (petites routes peu passantes 🚗) mais il passe par ailleurs par quelques voies vertes très agréables ! De plus, l'itinéraire passe par plusieurs gares de train 🚆, ce qui permet de le rejoindre facilement avec son vélo.
+On notera enfin que de nombreux autres itinéraire, de tous niveaux, peuvent être trouvés sur le site [Pyérénées à vélo](https://pyrenees-a-velo.com/).
+
+![Le parcours de la vélosud.](https://www.turiski.es/wp-content/uploads/2024/06/Itinerario-Velosud-1.png)
+*Le parcours de la vélosud, image tirée de [https://www.turiski.es/de-biarritz-a-barcares-descubre-la-velosud-la-ruta-ciclista-pirineo-frances/](https://www.turiski.es/de-biarritz-a-barcares-descubre-la-velosud-la-ruta-ciclista-pirineo-frances/).*
+
+
+## Notre itinéraire
+
+Comme pour la sortie vélo précédente, je suis accompagné d'Helmut, cycliste expérimenté qui n'en est pas à sa première sortie [bikepacking](https://fr.wikipedia.org/wiki/Bikepacking) 🚴.
+La saison peut paraître étonnante car nous décidons de partir à une période ou les températures sont encore assez basses ❄️.
+En réalité nous prévoyons cette sortie de longue date avec des calendriers difficiles à synchroniser 🗓️.
+Et puis quand on y réfléchit, pourquoi pas !
+Ce n'est jamais le mauvais moment pour partir à l'aventure, et puis on devrait bien se réchauffer en pédalant 🔥.
+
+Nous choisissons de faire un bout de la vélosud pour ses routes qui montent... 🥵 mais pas trop !
+Les gares présentes sur le trajet nous permettent de rapidement rejoindre et repartir de l'itinéraire en train depuis Toulouse.
+Nous optons également pour une version luxueuse de l'hébergement en réservant deux chambre d'hôtes 🏡 plutôt que de bivouaquer par des températures basses.
+Nous décidons de prévoir notre itinéraire sur 3 jours 📌 : de Lourdes à Lannemezan pour le premier jour, de Lannemezan à Saint-Martory pour le second et enfin de Saint-Martory à Foix pour le troisième.
+Cela fait tout de même environ 80 kilomètres de vélo par jour avec du dénivelé, de quoi bien s'occuper !
+
+## Jour 1 : de Lourdes à Lannemezan
+
+Notre aventure commence 2 jours avant le départ avec une mauvaise nouvelle : le TER que nous avions réservé ne dessert plus Lourdes 😰.
+Qu'à cela ne tienne, nous nous rabattons au dernier moment sur un intercité 🛤️.
+Heureusement pour nous, la réservation des emplacements vélos était encore possible à ce moment là !
+Seule inconvénient : l'intercité circule plus tard et nous fait arriver à Lourdes 2 heures après notre heure de départ initiale 🕙 !
+Nous nous préparons alors à ne pas perdre de temps pour cette première journée : d'une part nous ne devons pas arriver trop tard à l'hébergement et nous ne voulons également pas pédaler de nuit 🌃 avec nos lampes adaptées principalement à la ville 😬 !   
+
+Nous arrivons donc le matin du premier jour à la gare de Lourdes 🌃 alors que la matinée est déjà bien avancée.
+Nous nous mettons sans tarder en route pour rejoindre l'itinéraire à l'aide de la trace GPX 🛰️ récupérée sur le site [francevelotourisme](https://www.francevelotourisme.com/).
+Nous utilisons l'application [Komoot](https://www.komoot.com/) pour charger la trace mais attention cependant ⚠️, celle-ci consomme la batterie à une vitesse folle🪫.
+
+![La gare deLourdes.]({{ site.baseurl }}/images/velosud/gare_lourdes.jpg)
+*La gare de Lourdes.*
+
+Une fois l'itinéraire de la vélosud rejoint, nous nous lançons dans la première étape qui consiste à atteindre Tarbes, en s'éloignant légèrement de nos montagnes favorites.
+On remarque alors rapidement que l'itinéraire est balisé ! Une bonne nouvelle avec nos soucis de batterie de téléphone.
+Nous nous rendons également compte que les deux villes 🏙️ sont assez proches puisque le trajet fait 25 kilomètres seulement.
+Après une première montée en sortie de Lourdes, nous arrivons donc en moins de 2 heures à Tarbes avec une sacré météo : il grêle 🥶 ! 
+Nous nous y posons alors pour un repas réconfortant suivi d'une boisson chaude ☕ pour se réchauffer un peu.
+
+![Nos bolides garés à Tarbes.]({{ site.baseurl }}/images/velosud/pause_tarbes.jpg)
+*Nos bolides garés à Tarbes.*
+
+Nous ne tardons pas à reprendre la route après cette première pause à cause de notre timing serré ⌚.
+Malheureusement, la circulation dans Tarbes est compliquée 🚦 car peu de voies cyclables sont présentes et avec la présence de sens uniques ainsi que des routes barrées à cause d'un festival.
+Après plusieurs longs détours qui nous font perdre du temps, nous parvenons enfin à sortir de la ville en accélérant le pas.
+Le reste de la journée se passe de manière décidée pour ne pas prendre plus de retard. 
+Trois bonnes montées ⛰️ se présentent sur notre itinéraire vers Lannemezan avec un premier jour comprenant plus de 900 mètres de dénivelé positif !
+Le bon côté des choses : la montée nous réchauffe très rapidement à cette saison 🔥 !
+
+Nous ne faisons que peu de pauses par la suite, ce qui ne nous permet pas de prendre des photos 📷.
+On peut quand même dire que cette première journée n'a pas été la plus intéressante en terme de paysages 🖼️, la météo grisâtre n'ayant pas aidée.
+De mon côté les montées à vélo réveillent assez rapidement des douleurs aux genoux 🦵, ce qui promet pour la suite de notre voyage 🤕.
+Nous finissons par arriver à Lannemezan après 18h, avec une dernière montée car cette commune se situe sur un plateau ! 
+Nous sommes cependant super bien accueillis par nos hôtes de la soirée, ce qui nous permet de passer une soirée et une nuit reposante 😴.
+
+## Jour 2 : de Lannemezan à Saint-Martory
+
+Deuxième jour. 
+Malgré mes supplications aux grandes divinités du cyclisme et de la montagne pour récupérer de la veille, mes genoux me font encore mal 😵 !
+Qu'à cela ne tienne, nous repartons pour une journée de vélo avec heureusement pas plus de 500 mètres de dénivelé positif cette fois-ci.
+Après un copieux petit-déjeuner 🥐 (partie intégrante du kit de survie du cyclotouriste), nous démarrons pour un temps de chauffe (un peu douloureux me concernant).
+Le trajet se révèle tout de même agréable, avec plus de soleil que la veille 🌥️ ce qui nous permet de mieux admirer les montagnes.
+Nous traversons des petits villages 🏘️ et parcourons plusieurs collines campagnardes très sympathiques !
+
+![Un peu de soleil !]({{ site.baseurl }}/images/velosud/du_soleil.jpg)
+*Un peu de soleil !*
+
+La météo étant cependant toujours capricieuse, nous pédalons sous un peu de neige 🌨️ !
+Heureusement comme la veille, les montées permettent de vite se réchauffer.
+Nous progressons de village en village en enchaînant quelques montées/descentes et en profitant des paysages.
+J'aperçois même un lama 🦙 sur notre trajet !
+
+![Nous pédalons dans un campagne calme malgré les routes partagés.]({{ site.baseurl }}/images/velosud/vers_saint_bertrand_comminges.jpg)
+*Nous pédalons dans un campagne calme malgré les routes partagés.*
+
+Une étape notable de cette journée est le passage à [Saint-Bertrand-De-Comminges](https://fr.wikipedia.org/wiki/Saint-Bertrand-de-Comminges), petit village pittoresque avec sa cathédrale nichée sur la colline ⛪.
+Nous ne nous y arrêtons que peu de temps mais le village possède un patrimoine classé avec entre-autre la présence de ruines antiques.
+
+![Saint-Bertrand-De-Comminges nous aura laissé une forte impression.]({{ site.baseurl }}/images/velosud/saint_bertrand_comminges.jpg)
+*Saint-Bertrand-De-Comminges nous aura laissé une forte impression.*
+
+Nous poursuivons notre route et traversons la Garonne 🚣 peu de temps après ! 
+À ce stade, nous passons en fait près de [Montréjeau](https://fr.wikipedia.org/wiki/Montr%C3%A9jeau), commune possédant une gare de trains.
+La ligne de chemin de fer présente à cet endroit longe en fait la Garonne, direction Nord-Est jusqu'à Toulouse.
+Nous nous arrêtons peu de temps après pour le déjeuner 🌯 lorsque nous trouvons une table ensoleillée près de chevaux 🐎.
+Cette pause déjeuner ne s'éternisera pas cependant car il finit par se remettre à neiger ☃️.
+
+![Notre pause repas partiellement ensoleillée.]({{ site.baseurl }}/images/velosud/repas_comminges.jpg)
+*Notre pause repas partiellement ensoleillée.*
+
+Notre itinéraire nous emmène ensuite à Saint-Gaudens, la "grande ville" notable après Lannemezan pour cette deuxième journée de vélo.
+Nous rejoignons à cet endroit la ligne de chemin de fer mentionnée précédemment, et que nous avions emprunté pour rejoindre Lourdes la veille 🛤️.
+Saint-Gaudens est en effet également desservie par cette ligne 🚉, les options ne manquent donc pas pour rejoindre la vélosud à cet endroit !
+
+Enfin, la dernière étape de la journée consiste a rejoindre Saint-Martory 🏘️, pour un total de 80 kilomètres de vélo à nouveau.
+Chance pour nous (et surtout pour mes genoux !) la route de Saint-Gaudens à Saint-Martory est globalement en descente 😃 !
+Nous nous retrouvons donc assez bas et plus éloigné des montagnes mais le paysage reste très chouette 🏞️ !
+
+![Direction Saint-Martory !]({{ site.baseurl }}/images/velosud/vers_saint_martory.jpg)
+*Direction Saint-Martory !*
+
+Le repérage sur notre itinéraire ne se passe par ailleurs pas toujours sans encombres.
+En effet, bien que l'itinéraire soit balisé par la véloroute 81 tout du long (au moins sur ces trois jours), nous avons parfois quelques mauvaises surprises.
+Il nous semble qu'à deux reprises pendant cette deuxième journée les panneaux verts de la véloroute nous indiquent la mauvaise direction ⚠️.
+Heureusement, au moindre doute nous pouvons mettre un coup de GPS 🛰️ pour vérifier, ce qui nous permet d'éviter les gros détours.
+Il-y-aurait-il une personne mal intentionnée qui détourne les cyclistes de leur route 🤔 ?    
+
+Nous finissons par atteindre Saint-Martory assez tôt dans l'après-midi, de quoi bien se détendre après cette deuxième journée à pédaler !
+Nous sommes comme la veille super bien accueillis par notre hôte et nous en profitons pour conter nos aventures de la journée.
+Nous apprenons également que note itinéraire chevauche celui de la [Via Garona](https://www.hautegaronnetourisme.com/via-garona/), ou GR 861 🎒 qui relie Toulouse à Saint-Bertrand-de-Comminges.
+
+![Un chemin de fer longeant les Pyrénées.]({{ site.baseurl }}/images/velosud/train_montagnes.jpg)
+*Un chemin de fer longeant les Pyrénées.*
+
+Avant de clore cette deuxième journée, il faut mentionner un endroit à ne pas manquer à Saint-Martory.
+En planifiant ces trois jours, nous avions prévu de faire simple pour se restaurer le soir 🍲 en optant pour des brasseries ou restaurants.
+Cependant, les communes n'étant parfois pas très grandes, nous n'avions pas toujours beaucoup d'options (attention aux régimes particuliers).
+A Saint-Martory, un endroit a retenu notre attention (il s'agissait du seul) : chez Kiki 🍻 !
+Nous garderons un bon souvenir cet établissement avec un accueil au top.
+
+## Jour 3 : de Saint-Martory à Foix
+
+Nous attaquons notre dernier jour pour atteindre la ville de Foix en Ariège, point final de notre aventure.
+En terme de dénivelé positif, il nous reste encore environ 400 mètre à effectuer lors de cette journée, majoritairement sous la forme de faux plat montant.
+La journée débute avec une agréable piste cyclable pour aller de Saint-Martory à Saint-Girons 🚲.
+
+![Direction Saint-Girons sur une belle piste cyclable.]({{ site.baseurl }}/images/velosud/vers_saint_girons_bis.jpg)
+*Direction Saint-Girons sur une belle piste cyclable.*
+
+Pour ce début de journée, les montagnes sont à nouveau plutôt distantes.
+Avec une destination bien plus encastrée dans le massif, nous avons alors la sensation de nous enfoncer petit-à-petit vers les montagnes à mesure que les heures passent ⛰️.
+C'est grisant !
+Sur notre chemin vers Saint-Girons, nous appercevons même des hauts sommets enneigés, un super spectacle ! 
+
+![On aperçoit les sommets enneigés des Pyrénées.]({{ site.baseurl }}/images/velosud/sommets_enneiges.jpg)
+*On aperçoit les sommets enneigés des Pyrénées.*
+
+Le passage à Saint-Girons se fait avec quelques mésaventures.
+Malgré des pneus épais, ma roue arrière crève en effet en sortie de la ville 🛞.
+Il nous faudra environ 30 minutes pour la réparer 🔧.
+C'est l'occasion de rappeler qu'il est toujours bon d'avoir un peu de matériel sur soi pour les sorties 💡 : petite pompe, rustines, chambre à air et jeu de clefs.
+On pourra dire ensuite que la vie n'est qu'un éternel recommencement car environ 20 minutes après la réparation, une épine se plante dans ma roue avant cette fois 😱 !
+Heureusement pour moi, la chambre à air tient bon 💪.
+
+Nous rejoignons ensuite assez rapidement la [voie verte](https://www.af3v.org/les-voies-vertes/voies/279-voie-verte-foix-saint-girons-veloroute-v81/) allant de Saint-Girons à Foix.
+Cette voie verte a été aménagée sur une ancienne voie ferrée 🛤️.
+Malgré le faux plat montant, l'itinéraire est top !
+Nous pédalons au cœur de la campagne/montagne et passons même sous deux tunnels 🚇 !
+
+
+![On ne s'attendait pas aux tunnels à vélo !]({{ site.baseurl }}/images/velosud/passage_tunnel.jpg)
+*On ne s'attendait pas aux tunnels à vélo !*
+
+Au niveau du profil, l'itinéraire consiste alors en deux faux-plats montants coupés par une (faible) descente.
+Malgré la fatigue, nous pédalons de manière décidée avec un rythme peut-être un poil déraisonnable (oups!).
+En tout cas on se régale sur cette portion super calme 🥰 !
+Nous ne rencontrons presque personne 😲.
+
+
+![On se régale sur la voie verte vers Foix.]({{ site.baseurl }}/images/velosud/vers_foix.jpg)
+*On se régale sur la voie verte vers Foix.*
+
+Alors que nous pensions en avoir encore pour un bon moment, nous commençons à sentir la pente négative assez tôt dans l'après-midi 🕑.
+On réalise alors que nous n'avons plus qu'à laisser les vélos filer jusqu'à Foix sans avoir besoin de forcer !
+Encore une fois, un vrai régal 🤩.
+
+![La descente douce vers Foix est une vraie partie de plaisir !]({{ site.baseurl }}/images/velosud/vers_foix_2.jpg)
+*La descente douce vers Foix est une vraie partie de plaisir !*
+
+Nous terminons le trajet en empruntant un viaduc 🌁 surplombant la commune de Foix.
+Encore une vue au top avant de redescendre vers la gare ! 
+
+
+![L'arrivée à Foix se fait par le viadauc.]({{ site.baseurl }}/images/velosud/viaduc.jpg)
+*L'arrivée à Foix se fait par le viaduc.*
+
+Nous arrivons finalement à la gare de Foix 🚉 avec un bonne avance.
+On décide alors de prendre un train plus tôt que prévu pour retourner vers Toulouse.
+Eh oui, ce n'est pas tout mais on retourne au travail le lendemain 📆 !
+
+## Le mot de la fin
+
+Cette aventure aura encore été une superbe occasion de découvrir nos montagnes sous un nouvel angle.
+Parcourir autant de distance en seulement 3 jours et en utilisant uniquement un mode de déplacement mécanique 🚵 aura été une première pour moi.
+Je retiendrais en tout cas pour les futurs projets qu'il serait bon de **Préparer!** son voyage en amont pour éviter quelques désagrément comme les soucis de genoux 🤕 (ils se remettent doucement...).
+On m'a d'ailleurs conseillé après coup de faire attention à la position sur le vélo 🚲 (hauteur de selle, distance selle-guidon, etc..).
+
+Une chose qui nous aura marqués pendant ces trois jours est la vitesse à laquelle le paysage change à mesure que nous progressons sur l'itinéraire.
+C'est d'ailleurs probablement plus souvent le cas sur ce type de parcours montagneux ⛰️ que sur une voie verte de type canal.
+Nous avons pour notre part trouvé un bon compromis entre le côté tourisme et sportif sur ce trajet mais il est possible de raccourcir ou rallonger les étapes 📍 en fonction des aspirations de chacun.
+
+Encore une chouette aventure qui nous laissera de beaux souvenirs en tout cas 😀 !
+
+![Départ de Foix en train, l'aventure est terminée !]({{ site.baseurl }}/images/velosud/depart_foix.jpg)
+*Départ de Foix en train, l'aventure est terminée !*

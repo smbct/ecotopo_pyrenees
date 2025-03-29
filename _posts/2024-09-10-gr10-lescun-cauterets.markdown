@@ -101,7 +101,7 @@ Le lendemain, nous effectuons une étape bonus par rapport au tracé du GR : le 
 Cette étape détaillée dans le topo officiel mais non balisée consiste à effectuer le tour complet du pic 🔂 afin de l'observer sous tous ses angles (ou presque !) en passant notamment par le refuge de la Pombie 🛖.
 Cette extension nous permet de découvrir de nouveaux lacs et même d'apercevoir des marmottes !
 
-![Le pic vu de l'autre côté.]({{ site.baseurl }}/images/gr10_lescun_cauterets/pic_arrière.jpg)
+![Le pic vu de l'autre côté.]({{ site.baseurl }}/images/gr10_lescun_cauterets/pic_arriere.jpg)
 *Le pic vu de l'autre côté.*
 
 Contrairement à ce que nous avions anticipé, cette étape nous a finalement pris une seule journée, ce qui nous a permis de retourner bivouaquer au lac de Bious-Artigues le soir même 🎑. 
@@ -158,7 +158,7 @@ Cette sixième journée débute dans la brume 🌫️.
 Nous partons dans la direction de Arrens et Estaing.
 Nous suivons notamment une crête assez jolie et nous entrons pour la première fois dans le département des Hautes-Pyrénées ⛰️.
 
-![La crête sur le chemin vers Arrens.]({{ site.baseurl }}/images/gr10_lescun_cauterets/crête_arrens.jpg)
+![La crête sur le chemin vers Arrens.]({{ site.baseurl }}/images/gr10_lescun_cauterets/crete_arrens.jpg)
 *La crête sur le chemin vers Arrens.*
 
 Nous passons un certain temps à Arrens pour y effectuer le ravitaillement 🥕.
