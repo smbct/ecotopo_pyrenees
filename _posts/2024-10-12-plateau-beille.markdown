@@ -69,7 +69,7 @@ Il s'agit de mes premières expériences de vélo en montagne, autant dire que j
 Heureusement, des freins à disque 💿 bien réglés me permettent d'arriver en bas doucement et en sécurité.
 Je prend tout de même soin de freiner par à-coups et non en continue comme on me l'avait déjà expliqué pour ne pas surchauffer les freins 🔥.
 
-![Arrivée au village des Cabannes.]({{ site.baseurl }}/images/beille_velo/arrivée-cabannes.jpg)
+![Arrivée au village des Cabannes.]({{ site.baseurl }}/images/beille_velo/arrivee-cabannes.jpg)
 *Arrivée au village des Cabannes.*
 
 Nous arrivons donc assez tôt au village des Cabannes, le temps de faire une petite pause restauration avant de se lancer vers le plateau de Beille 🚀.
