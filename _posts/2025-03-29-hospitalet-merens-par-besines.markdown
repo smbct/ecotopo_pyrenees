@@ -97,8 +97,8 @@ Puis, on débouche dans la petite vallée du Nabre, que l'on va descendre nord-o
 
 <p>
 <div style="display: flex; align-items: center; gap: 1rem; max-width: 100%">
-<div style="flex: 1;"><img src="{{ site.baseurl }}/images/hospitalet_merens_besines/nabre1.jpg" alt="La porteille avant la montée." /></div>
-<div style="flex: 1.75;"><img src="{{ site.baseurl }}/images/hospitalet_merens_besines/nabre2.jpg" alt="En haut de la porteille." /></div>
+<div style="display flex;"><img src="{{ site.baseurl }}/images/hospitalet_merens_besines/nabre1.jpg" alt="La porteille avant la montée." /></div>
+<div style="display flex;"><img src="{{ site.baseurl }}/images/hospitalet_merens_besines/nabre2.jpg" alt="En haut de la porteille." /></div>
 </div>
 <em style="text-align: center; display: block; font-style:normal; font-size: 14px; color: #bbb">Au bout de la descente, on devine Mérens, surplombé par les pics de Savis et de Carroutch, qui marquent la limite avec la station de ski d'Ax</em>
 </p>
