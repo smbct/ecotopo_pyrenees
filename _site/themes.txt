@@ -1,0 +1,13 @@
+https://jamstackthemes.dev/demo/theme/jekyll-memoirs/
+https://jamstackthemes.dev/demo/theme/onassis/
+https://scriptor-jekyll.netlify.app/
+https://wowthemesnet.github.io/affiliates-jekyll-theme/
+https://jamstackthemes.dev/demo/theme/sleek/
+https://jamstackthemes.dev/demo/theme/jekyll-lagrange/
+http://artemsheludko.com/zolan/page/2/ *
+http://artemsheludko.com/flexible-jekyll/
+
+Critères :
+- liste articles avec photo et date
+- bannière
+- section commentaire
