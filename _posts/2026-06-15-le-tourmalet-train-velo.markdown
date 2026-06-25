@@ -8,10 +8,10 @@ comments: true
 author: Samuel
 ---
 
-Le col du Tourmalet, s'il est nécessaire de le présenter, est un col mythique des Hautes-Pyrénées situé au pied du pic du midi de Bigorre à 2114 mètres d'altitude.
+Le col du Tourmalet, s'il est nécessaire de le présenter, est un col mythique des Hautes-Pyrénées situé au pied du Pic du Midi de Bigorre à 2114 mètres d'altitude.
 Il s'agit d'un col incontournable du cyclisme, très souvent emprunté par le Tour de France.
 
-J'effectue cette sortie avec mon binôme Helmutz avec qui j'avais fait le [plateau de Beille]({{ site.baseurl }}/plateau-beille/) en 2024.
+J'effectue cette sortie avec mon binôme Helmut avec qui j'avais fait le [plateau de Beille]({{ site.baseurl }}/plateau-beille/) en 2024.
 Notre idée est d'effectuer l'ascension du col à la journée en faisant une boucle ➰ depuis la ville de Tarbes, accessible en train.
 On part donc cette fois-ci sur une journée particulièrement sportive, avec 130 kilomètres et environ 2000 mètres de dénivelé.
 Il s'agit d'une sortie qui intéressera surtout les amateurs de cyclisme 🚵🏽. 
@@ -26,13 +26,13 @@ Nous faisons cette sortie début juin.
 Ce ne sera pas le cas cette fois-ci mais la route est à certaines occasions [fermée à la circulation automobile](https://www.tourmaletpicdumidi.com/fete-manifestation/pyrenees-cycln-trip-col-du-tourmalet/), ce qui rend le trajet plus sympathique. 
 
 Pour une sortie de cette envergure, la préparation du vélo, avec la vérification des freins en particulier, est une étape obligatoire 🔧.
-Je me suis également moi-même préparé 🏋️ en effectuant de longues sorties avec dénivelé lors de mes précédent weekends. 
+Je me suis également moi-même préparé 🏋️ en effectuant de longues sorties avec dénivelé lors de mes précédents weekends. 
 
 # De Tarbes à Luz-Saint-Sauveur
 
 Nous partons de Tarbes vers 08h30 après un peu moins de deux heures de train ⌚.
 Le début du trajet nous est familier car nous empruntons l'itinéraire de [la vélosud](https://www.francevelotourisme.com/itineraire/la-velosud) que nous avions eu l'occasion de parcourir en partie [deux ans auparavent]({{ site.baseurl }}/velosud/).
-Nous passons un premier léger col avant d'arriver à Lourdes.
+Nous passons un premier très léger col avant d'arriver à Lourdes.
 
 ![Nous passons par Bourreac sur notre chemin vers Lourdes.]({{ site.baseurl }}/images/tourmalet/bourreac.jpg)
 *Nous passons par Bourreac sur notre chemin vers Lourdes.*
@@ -47,7 +47,7 @@ Malgré la légère pente, le trajet est très facile. Nous nous enfonçons ains
 </div>
 
 Le trajet se corse ensuite puisque nous empruntons un axe plus important avec beaucoup de circulation 🚗.
-Heureusement, nous le quittons assez rapidement pour passer un second col qui nous fait arriver à Luz-Saint-Sauveur. Ça y est, nous sommes dans les montagnes ! 
+Heureusement, nous le quittons assez rapidement pour passer un second col, bien raide cette fois-ci, qui nous fait arriver à Luz-Saint-Sauveur. Ça y est, nous sommes dans les montagnes ! 
 
 ![Luz-Saint-Sauveur.]({{ site.baseurl }}/images/tourmalet/luz_saint_sauveur.jpg)
 *Luz-Saint-Sauveur.*
@@ -90,7 +90,7 @@ Les derniers coups de pédale sont difficiles, avec une pente aux alentours de 1
 *L'arrivée au col*
 
 Il m'aura fallu un peu plus de 2h30 pour réaliser l'ascension.
-Au col, je souffle un peu et nous nous offrons une boisson sucrée avec Helmutz grâce au bar 🥤 (ou il y a un bar, et un musée aussi). 
+Au col, je souffle un peu et nous nous offrons une boisson sucrée avec Helmut grâce au bar 🥤 (oui il y a un bar, et un musée aussi). 
 
 Nous ne sommes pas seuls, de nombreux cyclistes ainsi que des touristes se reposent et profitent de la vue.
 Cela nous donne l'occasion de discuter avec un brave étudiant 🧑‍🎓 réalisant son année de césure sur son vélo en bikepacking en montagne 🏕️.
@@ -128,7 +128,7 @@ Nous arrivons à Campan en bas du col en une trentaine de minutes.
 De là nous prenons la direction de Tarbes en sortant progressivement des montagnes.
 Évidemment, cette partie de notre trajet est presque exclusivement de la descente 🛝.
 
-Une fois sortis de la chaîne, nous pouvons encore admirer le [pic du midi](https://fr.wikipedia.org/wiki/Pic_du_Midi_de_Bigorre) et sa station de recherche pendant un bon moment.
+Une fois sortis de la chaîne, nous pouvons encore admirer le [Pic du Midi](https://fr.wikipedia.org/wiki/Pic_du_Midi_de_Bigorre) et sa station de recherche pendant un bon moment.
 Nous empruntons des routes secondaires entre les champs 🌿 avec peu de circulation sur cette fin de sortie.
 
 ![Nous avons encore un beau panorama sur la route de Tarbes.]({{ site.baseurl }}/images/tourmalet/route_vers_tarbes.jpg)
@@ -140,7 +140,7 @@ Il nous faudra finalement deux heures par arriver à la gare de Tarbes 🚉, ave
 *Arrivée à la gare de Tarbes.*
 
 Le retour en train se fait sans encombres.
-Nous continuons d'apercevoir les montagnes pendant un bon moment, le pic du midi restant également lui-même longuement visible 🗻.
+Nous continuons d'apercevoir les montagnes pendant un bon moment, le Pic du Midi restant également lui-même longuement visible 🗻.
 
 <div style="display: block; margin-left: auto; margin-right: auto; width: 60%;">
 <img alt="Retour en train." src="{{ site.baseurl }}/images/tourmalet/retour_train_2.jpg" data-action="zoom">
