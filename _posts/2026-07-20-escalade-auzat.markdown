@@ -1,8 +1,8 @@
 ---
 title: Escalade à Auzat en train et vélo
 layout: post
-date:   2026-07-10 01:00:00 +0300
-image:  auzat/falaise_auzat.jpg
+date:   2026-07-20 01:00:00 +0300
+image:  auzat_escalade/falaise_auzat.jpg
 tags:   Escalade
 comments: true
 author: Samuel
